@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../20240523js01"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "jankenTemplate"
+	}
+}
